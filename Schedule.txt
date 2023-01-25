@@ -1,0 +1,23 @@
+24th Jan:
+---------
+
+*Overview of Devops
+  1.What is Devops
+  2. Why Devops
+  3.Introduce yourself
+  4.Day to Day Activities of Devops
+  
+ 25th Jan:
+ --------
+ *What is SDLC
+ *Different Phases of SDLC
+ *Role of Devops in SDLC
+ *Physical Machines, Hypervisor,physical machine vs VM, Advantages of VM.
+ 
+ 26th Jan:
+ ---------
+ *Creation of VM through cloud (AWS) and discuss API, CLI and other ways.
+ 
+ 27th Jan:
+ --------
+ *AWs concepts and AWS CLI and how to interact with Ec2 machines.
