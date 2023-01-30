@@ -17,4 +17,9 @@
  30th Jan:
  ---------
  *Creation of VM through cloud (AWS) and discuss API, CLI and other ways.
- *AWs concepts and AWS CLI and how to interact with EC2 machines.
+ *AWs concepts and AWS CLI 
+ 
+ Assigment:
+ ----------
+ *Create a AWS account and create EC2 instance.
+ *Login to that instance using .pem file and create a file in it with some content.
