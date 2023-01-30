@@ -14,10 +14,7 @@
  *Role of Devops in SDLC
  *Physical Machines, Hypervisor,physical machine vs VM, Advantages of VM.
  
- 26th Jan:
+ 30th Jan:
  ---------
  *Creation of VM through cloud (AWS) and discuss API, CLI and other ways.
- 
- 27th Jan:
- --------
- *AWs concepts and AWS CLI and how to interact with Ec2 machines.
+ *AWs concepts and AWS CLI and how to interact with EC2 machines.
