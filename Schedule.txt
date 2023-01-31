@@ -17,9 +17,25 @@
  30th Jan:
  ---------
  *Creation of VM through cloud (AWS) and discuss API, CLI and other ways.
- *AWs concepts and AWS CLI 
+ *AWs concepts
  
- Assigment:
+ Assignment:
  ----------
  *Create a AWS account and create EC2 instance.
  *Login to that instance using .pem file and create a file in it with some content.
+
+31st Jan:
+--------
+*Creation of s3, ec2 using AWS CLI and configuring of AWS CLI
+*Inbound and outbound rules of Security groups
+*VPC, subnets and security groups
+
+Assignment:
+----------
+*Create a ec2 machine with security group which has inbound rules with 22 as port (TCP)
+
+1st Feb:
+-------
+*What is OS?
+*Linux vs Windows
+*Shell Commands
