@@ -39,3 +39,4 @@ Assignment:
 *What is OS?
 *Linux vs Windows
 *Shell Commands
+*Example of shell script with AWS resources
