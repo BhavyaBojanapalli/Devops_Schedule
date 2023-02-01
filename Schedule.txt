@@ -40,3 +40,13 @@ Assignment:
 *Linux vs Windows
 *Shell Commands
 *Example of shell script with AWS resources
+
+Assignment:
+---------
+* Create a folder named "first" abd then a file named "lesson" in that folder.Add the below content to the file
+
+"Today I learnt about shell"
+
+and then print the content of the file to screen
+
+*Write a shell script to print "My Name is Navadheep" on to the screen.
