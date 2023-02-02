@@ -1,4 +1,4 @@
-24th Jan:
+24th Jan:(Day 1)
 ---------
 
 *Overview of Devops
@@ -7,14 +7,14 @@
   3.Introduce yourself
   4.Day to Day Activities of Devops
   
- 25th Jan:
+ 25th Jan:(Day 2)
  --------
  *What is SDLC
  *Different Phases of SDLC
  *Role of Devops in SDLC
  *Physical Machines, Hypervisor,physical machine vs VM, Advantages of VM.
  
- 30th Jan:
+ 30th Jan:(Day 3)
  ---------
  *Creation of VM through cloud (AWS) and discuss API, CLI and other ways.
  *AWs concepts
@@ -24,7 +24,7 @@
  *Create a AWS account and create EC2 instance.
  *Login to that instance using .pem file and create a file in it with some content.
 
-31st Jan:
+31st Jan:(Day 4)
 --------
 *Creation of s3, ec2 using AWS CLI and configuring of AWS CLI
 *Inbound and outbound rules of Security groups
@@ -34,7 +34,7 @@ Assignment:
 ----------
 *Create a ec2 machine with security group which has inbound rules with 22 as port (TCP)
 
-1st Feb:
+1st Feb:(Day 5)
 -------
 *What is OS?
 *Linux vs Windows
@@ -50,3 +50,15 @@ Assignment:
 and then print the content of the file to screen
 
 *Write a shell script to print "My Name is Navadheep" on to the screen.
+
+2nd Feb:(Day 6)
+-------
+*More topics on shell
+
+5th Feb: (Day 7)
+--------
+*Basics of GIT
+
+6th Feb:(Day 8)
+--------
+*Advanced topics of GIT
