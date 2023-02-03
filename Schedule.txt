@@ -51,14 +51,14 @@ and then print the content of the file to screen
 
 *Write a shell script to print "My Name is Navadheep" on to the screen.
 
-2nd Feb:(Day 6)
+3rd Feb:(Day 6)
 -------
 *More topics on shell
 
-5th Feb: (Day 7)
+6th Feb: (Day 7)
 --------
 *Basics of GIT
 
-6th Feb:(Day 8)
+7th Feb:(Day 8)
 --------
 *Advanced topics of GIT
