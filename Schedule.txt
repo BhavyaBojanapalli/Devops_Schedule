@@ -53,7 +53,21 @@ and then print the content of the file to screen
 
 3rd Feb:(Day 6)
 -------
-*More topics on shell
+*More topics on shell like grep and awk
+*User permissions
+
+Ass1:(users.txt)
+----
+1 firstName     lastName        age     city       ID
+2 Thomas        Shelby          30      Rio        400
+3 Omega         Night           45      Ontario    600
+
+Write a awk command to print all the lastnames in that file
+
+Ass2:
+----
+Using the same file print the first name and last names of the users
+
 
 6th Feb: (Day 7)
 --------
