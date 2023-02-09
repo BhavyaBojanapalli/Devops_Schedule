@@ -76,3 +76,11 @@ Using the same file print the first name and last names of the users
 7th Feb:(Day 8)
 --------
 *Advanced topics of GIT
+
+8th feb:(Day 9)
+------------
+*Forking,PR and exercises on GIT repos.
+
+9th feb:(Day 10)
+---------------
+*Various EC2 services that devops Eng should know and explanation of EC2 and deploy an application.
