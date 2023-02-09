@@ -1,0 +1,15 @@
+1. Code Commit -> Code Build -> Code pipeline->Deploy
+2. IAM
+3. EC2
+4. VPC
+5. EBS/EFS
+6. Cloud watch
+7. ELB
+8. EKS
+9. ECS
+10. ELK
+11. AWS configuration details
+12. Billing
+13. AWS KMS
+14. Cloudtrail
+15. Lambda 
