@@ -84,3 +84,8 @@ Using the same file print the first name and last names of the users
 9th feb:(Day 10)
 ---------------
 *Various EC2 services that devops Eng should know and explanation of EC2 and deploy an application.
+
+17th feb:(Day 11)
+--------
+
+*VPC and NAT gateway
