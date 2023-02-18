@@ -1,0 +1,13 @@
+Creation of NAT GATEWAY:
+
+
+
+1.Create a subnet and name it as “kia-nat-subnet” (10.1.5.0/24) - Auto assign IP
+2.Create a NAT gateway and attach public subnet
+3.Route table
+	*route paths
+	* subnets
+4.Deploy VM1 in public subnet and DB1 in private subnet
+5.Try to connect DB1 server using public IP (fail)
+6.login to vm1 and connect to DB1
+7.ping www.google.com from DB1 and it should work
