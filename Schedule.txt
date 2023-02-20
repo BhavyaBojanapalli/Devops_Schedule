@@ -89,3 +89,18 @@ Using the same file print the first name and last names of the users
 --------
 
 *VPC and NAT gateway
+
+18th Feb(Day 12)
+----------------
+*Practical session on NAT gateway and flow of traffic and security groups and NACL
+
+20th Feb(Dayb 13):
+--------------
+*security groups and NACl rules
+*VPC peering
+*S3,elastic cloud compute
+
+21st feb(Day 14):
+---------------
+*EBS volumes and create snapshots in AWS
+*Cloudformation in AWS
