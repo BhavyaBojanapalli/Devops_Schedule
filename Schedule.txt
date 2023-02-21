@@ -104,3 +104,7 @@ Using the same file print the first name and last names of the users
 ---------------
 *EBS volumes and create snapshots in AWS
 *Cloudformation in AWS
+
+22nd Feb(day 15):
+-------------
+*Ansible with examples
