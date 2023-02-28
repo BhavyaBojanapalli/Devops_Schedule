@@ -105,6 +105,20 @@ Using the same file print the first name and last names of the users
 *EBS volumes and create snapshots in AWS
 *Cloudformation in AWS
 
-22nd Feb(day 15):
+28th Feb(day 15):
 -------------
-*Ansible with examples
+*Ansible Theory with Architecture
+
+1st March(day 16):
+-------------
+*Ansible configuration with examples
+
+2nd March:(day 17)
+---------------
+*Puppet theory with examples
+
+3rd March(day 18):
+------------
+* Jenkins installation and Theory
+
+
