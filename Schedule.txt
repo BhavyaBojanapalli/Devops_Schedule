@@ -113,12 +113,9 @@ Using the same file print the first name and last names of the users
 -------------
 *Ansible configuration with examples
 
-2nd March:(day 17)
+3rd March:(day 17)
 ---------------
 *Puppet theory with examples
 
-3rd March(day 18):
-------------
-* Jenkins installation and Theory
 
 
