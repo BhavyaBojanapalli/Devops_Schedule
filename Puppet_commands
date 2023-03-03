@@ -1,0 +1,28 @@
+    Master node:
+    -------------
+       
+       sudo apt-get update
+    2  sudo apt-get install wget
+    4  wget https://apt.puppetlabs.com/puppet-release-bionic.deb
+    5  sudo dpkg -i puppet-release-bionic.deb
+    6  sudo apt-get install puppet-master
+    7  apt policy puppetmaster
+    8  sudo systemctl status puppet-master.service
+    9  vim /etc/default/puppet-master
+   10  sudo vim /etc/default/puppet-master
+   11  sudo systemctl restart puppet-master.service
+   12  sudo ufw allow 8140/tcp
+
+Agent Node:
+sudo apt-get update
+    2  sudo apt-get install wget
+    4  wget https://apt.puppetlabs.com/puppet-release-bionic.deb
+    5  sudo dpkg -i puppet-release-bionic.deb
+    6  sudo apt-get install puppet
+    sudo systemctl start puppet
+    sudo systemctl enable puppet
+    
+    
+    Afetr installation you need to sign the cert of both master and slave.
+    
+  
