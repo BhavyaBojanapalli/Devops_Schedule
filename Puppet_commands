@@ -23,6 +23,6 @@ sudo apt-get update
     sudo systemctl enable puppet
     
     
-    Afetr installation you need to sign the cert of both master and slave.
+    After installation you need to sign the cert of both master and slave.
     
-  
+  The port of puppet is 8140
