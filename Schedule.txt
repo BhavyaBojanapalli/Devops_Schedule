@@ -121,7 +121,7 @@ Using the same file print the first name and last names of the users
 --------------
 *CICD intro with jenkins and gitlab Ci file
 
-5th March (day 19)
+6th March (day 19)
 ---------------
 *Jenkins installation and example CI file
 
