@@ -129,35 +129,28 @@ Using the same file print the first name and last names of the users
 -------------
 *Jenkins CICD files with more examples
 
-9th march(Day 21):
+13th march(Day 21):
 ---------------
 *What is terraform and modules of terraform
 
-10th March ( Day 22):
+14th March ( Day 22):
 ------------
-*Terraform with examples
+*Terraform with examples and docker intro
 
-13th March( Day 23):
+15th March( Day 23):
 -----------------
-*Docker and commands
+*Docker and commands and Dockerfile
 
-14th March(day 24):
----------------
-*Dockerfile and examples of dockerfiles
-
-15th March(Day 25):
+16th March(Day 25):
 ----------------
 *K8s
 
-16th March(Day 26):
+17th March(Day 26):
 ------------
 *k8s
 
-17th March(day 27)
+18th March(day 27)
 ---------
 *k8s
 
-20th March(Day 28):
---------
-*Nagios
 
